@@ -8,7 +8,7 @@
 ![Classifier Model](images/image1.png)
 
 # Vocabulary and Feature Extraction
-## Creaing Sparse Arrays in the manner shown below:
+## Creating Sparse Arrays in the manner shown below:
 ![Feature Representation](images/image2.png
 )
 
